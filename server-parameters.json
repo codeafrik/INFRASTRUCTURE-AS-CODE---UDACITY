@@ -1,0 +1,13 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdagramDevOps"
+	},
+
+	{
+		"ParameterKey": "Capabilities",
+		"ParameterValue": "CAPABILITY_IAM"
+	}
+
+
+]
